@@ -11,5 +11,5 @@ Go to website.
 Group Name: Awesome
 
 Members:
-* Member 1
-* Member 2
+Aayushi Jajodia
+
